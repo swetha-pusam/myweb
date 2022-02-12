@@ -7,6 +7,7 @@
 	<version>8.2.0</version>
 	<name>Java Home myweb</name>
 	<! my name is swetha>
+	<hello world>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
